@@ -1,13 +1,12 @@
 ## Hi there, I'm Luis Jorge 👋
 
-![Profile Banner](https://wallpapers.com/images/high/abstract-colorful-shapes-background-kwjzzwgqc2ol5jo0.webp)
+![Profile Banner](https://wallpapers.com/images/high/coding-equation-graphic-itl2ob2t8xine7x0.webp)
 
 I'm a passionate software developer specializing in web development and AI technologies. Welcome to my GitHub profile where I showcase my projects, skills, and ongoing learning journey.
 
-
 ### 🔭 Current Projects
 - 🌐 **Apptlan** - Building web pages and chatbots for businesses.
-- 📱 **TravelGram** - Instagram-like travel app for sharing posts about different places.
+- 📱 **Travelink** - Instagram-like travel app for sharing posts about different places.
 - 💰 **Personal Finance Manager** - React app for managing personal finances.
 
 ### 🌱 What I'm Learning
@@ -15,7 +14,7 @@ I'm a passionate software developer specializing in web development and AI techn
 - Exploring backend development with Node.js and Laravel.
 
 ### 👯 Looking to Collaborate
-- Open to collaborating on web development projects, particularly those using React, Laravel, and AI technologies.
+- Open to collaborating on web development projects. I'm a full-stack developer experienced in React, Laravel, and more.
 
 ### 💬 Ask Me About
 - Frontend frameworks like React, Tailwind.
@@ -30,7 +29,6 @@ I'm a passionate software developer specializing in web development and AI techn
 - Big fan of coding challenges and problem-solving!
 
 ---
-
 
 ### GitHub Stats
 
