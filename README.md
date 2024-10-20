@@ -1,6 +1,6 @@
 ## Hi there, I'm Luis Jorge 👋
 
-![Profile Banner](https://wallpapers.com/wallpapers/abstract-colorful-shapes-background-kwjzzwgqc2ol5jo0.html)
+![Profile Banner](https://wallpapers.com/images/high/abstract-colorful-shapes-background-kwjzzwgqc2ol5jo0.webp)
 
 I'm a passionate software developer specializing in web development and AI technologies. Welcome to my GitHub profile where I showcase my projects, skills, and ongoing learning journey.
 
