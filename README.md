@@ -5,7 +5,6 @@
 I'm a passionate software developer specializing in web development and AI technologies. Welcome to my GitHub profile where I showcase my projects, skills, and ongoing learning journey.
 
 ### 🔭 Current Projects
-- 🌐 **Apptlan** - Building web pages and chatbots for businesses.
 - 📱 **Travelink** - Instagram-like travel app for sharing posts about different places.
 - 💰 **Personal Finance Manager** - React app for managing personal finances.
 
