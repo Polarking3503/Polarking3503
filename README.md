@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:reynaga_45@icloud.com">Email</a> •
-  <a href="https://portafolio-silk-zeta.vercel.app/" target="_blank">Portafolio</a>
+  <a href="https://portafolio-silk-zeta.vercel.app/" target="_blank">Portafolio</a> •
   <a href="https://www.linkedin.com/in/luis-jorge-reynaga-56b257235/" target="_blank">LinkedIn</a>
 </p>
 
